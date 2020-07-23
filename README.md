@@ -7,8 +7,9 @@ I welcome feedback, questions, or comments you may have about any file in this r
 ### MATH_521__course_notes.pdf
 
   - Description: document containing formatted lecture notes from the Spring 2020 semester
+  - Current task: checking each section for errors and typos
   - To-do: create an intro page that goes over common notation or background information that is used in the document but not explicitly defined, find a more cohesive format that doesn't include lecture dates (thinking about grouping by subject similar to chapters in a book)
   - Issues: none (that I'm aware of)
-  - General notes: I have already spotted some errors or typos and am in the process of reviewing each definition, theorem, lemma, and so on. If you spot any errors, please let me know!
+  - General notes: I have already spotted some errors and typos and am in the process of reviewing each definition, theorem, lemma, and so on. If you spot any errors, please let me know!
 
 -- Emmett Galles
