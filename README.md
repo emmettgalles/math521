@@ -10,6 +10,6 @@ I welcome feedback, questions, or comments you may have about any file in this r
   - Current task: checking each section for errors and typos
   - To-do: create an intro page that goes over common notation or background information that is used in the document but not explicitly defined, find a more cohesive format that doesn't include lecture dates (thinking about grouping by subject similar to chapters in a book)
   - Issues: none (that I'm aware of)
-  - General notes: I have already spotted some errors and typos so I'm reviewing each definition, theorem, lemma, and so on. I recommend waiting to download the document until I flag a commit as v1.0 (should be before October 30, 2020). If you spot any errors, please let me know!
+  - General notes: I have already spotted some errors and typos so I'm reviewing each definition, theorem, lemma, and so on. I recommend waiting to download the document until I flag a commit as v1.0; this will hopefully be done before December 31, 2020. If you spot any errors, please let me know!
 
 -- Emmett Galles
